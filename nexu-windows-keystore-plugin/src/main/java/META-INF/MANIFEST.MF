@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: 
+Class-Path: bcpkix-jdk15on-1.59.jar jna-4.2.2.jar commons-lang-2.6.jar c
+ ommons-io-2.5.jar jna-platform-4.2.2.jar dss-token-5.3.jar dss-spi-5.3.
+ jar dss-model-5.3.jar slf4j-api-1.7.25.jar dss-crl-parser-5.3.jar bcpro
+ v-jdk15on-1.59.jar dss-utils-5.3.jar
+
